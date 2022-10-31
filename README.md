@@ -1,7 +1,7 @@
 Hi there 👋
 
-- 🔭 I’m currently working on becoming a better version of myself.
-- 🌱 I’m currently learning JavaScript and React.
+- 🔭 I’m currently working on becoming a better version of myself
+- 🌱 I’m currently learning JavaScript and React.js
 
 
 <!--
